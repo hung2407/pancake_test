@@ -1,0 +1,6 @@
+{
+  "name": "dauto",
+  "description": "Nền tảng quản lý hội thoại, bình luận và bán hàng đa kênh (All-in-One Omnichannel Messaging & Social Commerce Platform).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
